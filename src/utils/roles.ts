@@ -1,0 +1,1 @@
+export const User_Role = {"SuperAdmin":{"name":"superadmin","id":"2d3c04b0-2c8c-4163-9c1e-5118972a2a99"},"Admin":{"name":"admin","id":"9822c0bb-1444-40b4-9b68-f5d4afed9620"},"Employee":{"name":"employee","id":"86c7f063-c26b-43c9-80ad-ac4039551e36"},"Client":{"name":"client","id":"4895bdab-1191-429a-99b4-b2555b7e45be"}}
